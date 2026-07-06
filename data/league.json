@@ -1,0 +1,228 @@
+{
+  "season": 330,
+  "leagueInfo": {
+    "name": "DEFA League",
+    "teams": 16,
+    "country": "DEFA"
+  },
+  "standings": [
+    {
+      "position": 1,
+      "teamId": 2,
+      "teamName": "Cindian Crawls",
+      "points": 35,
+      "goalsDifference": 16,
+      "defaPoints": 29,
+      "division": "CL"
+    },
+    {
+      "position": 2,
+      "teamId": 20,
+      "teamName": "Soto",
+      "points": 31,
+      "goalsDifference": 10,
+      "defaPoints": 27,
+      "division": "CL"
+    },
+    {
+      "position": 3,
+      "teamId": 5,
+      "teamName": "Neskar Bees",
+      "points": 30,
+      "goalsDifference": 9,
+      "defaPoints": 25,
+      "division": "CL"
+    },
+    {
+      "position": 4,
+      "teamId": 3,
+      "teamName": "Vokstre Fighters",
+      "points": 28,
+      "goalsDifference": 2,
+      "defaPoints": 24,
+      "division": "EL"
+    },
+    {
+      "position": 5,
+      "teamId": 1,
+      "teamName": "Fearion Fighters",
+      "points": 26,
+      "goalsDifference": 11,
+      "defaPoints": 23,
+      "division": "EL"
+    },
+    {
+      "position": 6,
+      "teamId": 13,
+      "teamName": "Leveria",
+      "points": 26,
+      "goalsDifference": 10,
+      "defaPoints": 22,
+      "division": "EL"
+    },
+    {
+      "position": 7,
+      "teamId": 23,
+      "teamName": "Esta Tigers",
+      "points": 25,
+      "goalsDifference": 8,
+      "defaPoints": 21,
+      "division": "VR3"
+    },
+    {
+      "position": 8,
+      "teamId": 4,
+      "teamName": "FC Polt",
+      "points": 19,
+      "goalsDifference": 3,
+      "defaPoints": 20,
+      "division": "VR3"
+    },
+    {
+      "position": 9,
+      "teamId": 12,
+      "teamName": "Tikva",
+      "points": 19,
+      "goalsDifference": -2,
+      "defaPoints": 19,
+      "division": "VR2"
+    },
+    {
+      "position": 10,
+      "teamId": 10,
+      "teamName": "Covernicos",
+      "points": 19,
+      "goalsDifference": -2,
+      "defaPoints": 18,
+      "division": "VR2"
+    },
+    {
+      "position": 11,
+      "teamId": 8,
+      "teamName": "FC Bodstock",
+      "points": 16,
+      "goalsDifference": -2,
+      "defaPoints": 17,
+      "division": "VR2"
+    },
+    {
+      "position": 12,
+      "teamId": 14,
+      "teamName": "Arjon Arrows",
+      "points": 16,
+      "goalsDifference": -3,
+      "defaPoints": 16,
+      "division": "VR1"
+    },
+    {
+      "position": 13,
+      "teamId": 9,
+      "teamName": "Paraiba Puma's",
+      "points": 13,
+      "goalsDifference": -13,
+      "defaPoints": 15,
+      "division": "D"
+    },
+    {
+      "position": 14,
+      "teamId": 11,
+      "teamName": "FC Cindian",
+      "points": 13,
+      "goalsDifference": -13,
+      "defaPoints": 14,
+      "division": "D"
+    },
+    {
+      "position": 15,
+      "teamId": 18,
+      "teamName": "Javastich",
+      "points": 12,
+      "goalsDifference": -15,
+      "defaPoints": 13,
+      "division": "D"
+    },
+    {
+      "position": 16,
+      "teamId": 15,
+      "teamName": "Lagoria Lions",
+      "points": 9,
+      "goalsDifference": -19,
+      "defaPoints": 12,
+      "division": "D"
+    }
+  ],
+  "topScorers": [
+    {
+      "position": 1,
+      "playerName": "Pado Jipan",
+      "teamId": 2,
+      "teamName": "Cindian Crawls",
+      "goals": 21
+    },
+    {
+      "position": 2,
+      "playerName": "Istan del Ray",
+      "teamId": 2,
+      "teamName": "Cindian Crawls",
+      "goals": 10
+    },
+    {
+      "position": 3,
+      "playerName": "Ali Mohammed",
+      "teamId": 13,
+      "teamName": "Leveria",
+      "goals": 9
+    },
+    {
+      "position": 4,
+      "playerName": "Fabio Torillo",
+      "teamId": 23,
+      "teamName": "Esta Tigers",
+      "goals": 9
+    },
+    {
+      "position": 5,
+      "playerName": "Kawaguchi",
+      "teamId": 1,
+      "teamName": "Fearion Fighters",
+      "goals": 7
+    }
+  ],
+  "topAssists": [
+    {
+      "position": 1,
+      "playerName": "Pado Jipan",
+      "teamId": 2,
+      "teamName": "Cindian Crawls",
+      "assists": 6
+    },
+    {
+      "position": 2,
+      "playerName": "Kawagucha",
+      "teamId": 2,
+      "teamName": "Cindian Crawls",
+      "assists": 6
+    },
+    {
+      "position": 3,
+      "playerName": "Bantrachtoftas",
+      "teamId": 5,
+      "teamName": "Neskar Bees",
+      "assists": 5
+    },
+    {
+      "position": 4,
+      "playerName": "Maxel Snooze",
+      "teamId": 1,
+      "teamName": "Fearion Fighters",
+      "assists": 5
+    },
+    {
+      "position": 5,
+      "playerName": "Xi Xu Xi",
+      "teamId": 20,
+      "teamName": "Soto",
+      "assists": 4
+    }
+  ]
+}
