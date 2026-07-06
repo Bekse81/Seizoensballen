@@ -1,0 +1,24 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Fearion Fighters",
+      "logo": "fearion-fighters.png",
+      "color": "#FFD700",
+      "accentColor": "#1F51BA",
+      "founded": "Seizoen 320",
+      "stadium": "Fearion Arena",
+      "description": "Sterk offensief team met goede scorers"
+    },
+    {
+      "id": 2,
+      "name": "Cindian Crawls",
+      "logo": "cindian-crawls.png",
+      "color": "#000000",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 310",
+      "stadium": "Cindian Park",
+      "description": "Dominante competitiewinnaar van Seizoen 330"
+    }
+  ]
+}
