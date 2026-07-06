@@ -1,0 +1,237 @@
+{
+  "season": 330,
+  "cupName": "DEFA Cup",
+  "rounds": {
+    "firstRound": [
+      {
+        "matchId": 1,
+        "homeTeamId": 17,
+        "homeTeamName": "Manori Sharks",
+        "awayTeamId": 6,
+        "awayTeamName": "Kinamo Knights",
+        "homeScore": 2,
+        "awayScore": 0,
+        "winner": "Manori Sharks"
+      },
+      {
+        "matchId": 2,
+        "homeTeamId": 13,
+        "homeTeamName": "Leveria",
+        "awayTeamId": 16,
+        "awayTeamName": "Trevio",
+        "homeScore": 3,
+        "awayScore": 2,
+        "winner": "Leveria"
+      },
+      {
+        "matchId": 3,
+        "homeTeamId": 1,
+        "homeTeamName": "Fearion Fighters",
+        "awayTeamId": 4,
+        "awayTeamName": "FC Polt",
+        "homeScore": 0,
+        "awayScore": 2,
+        "winner": "FC Polt"
+      },
+      {
+        "matchId": 4,
+        "homeTeamId": 18,
+        "homeTeamName": "Javastich",
+        "awayTeamId": 3,
+        "awayTeamName": "Vokstre Fighters",
+        "homeScore": 0,
+        "awayScore": 2,
+        "winner": "Vokstre Fighters"
+      },
+      {
+        "matchId": 5,
+        "homeTeamId": 11,
+        "homeTeamName": "FC Cindian",
+        "awayTeamId": 28,
+        "awayTeamName": "Ziklag",
+        "homeScore": 4,
+        "awayScore": 2,
+        "winner": "FC Cindian"
+      },
+      {
+        "matchId": 6,
+        "homeTeamId": 15,
+        "homeTeamName": "Lagoria Lions",
+        "awayTeamId": 22,
+        "awayTeamName": "Sol-a-Far",
+        "homeScore": 1,
+        "awayScore": 2,
+        "winner": "Sol-a-Far"
+      },
+      {
+        "matchId": 7,
+        "homeTeamId": 30,
+        "homeTeamName": "Arana FC",
+        "awayTeamId": 14,
+        "awayTeamName": "Arjon Arrows",
+        "homeScore": 0,
+        "awayScore": 3,
+        "winner": "Arjon Arrows"
+      },
+      {
+        "matchId": 8,
+        "homeTeamId": 19,
+        "homeTeamName": "Ochamon",
+        "awayTeamId": 31,
+        "awayTeamName": "DFC",
+        "homeScore": 1,
+        "awayScore": 2,
+        "winner": "DFC"
+      }
+    ],
+    "quarterFinals": [
+      {
+        "matchId": 16,
+        "homeTeamId": 13,
+        "homeTeamName": "Leveria",
+        "awayTeamId": 4,
+        "awayTeamName": "FC Polt",
+        "homeScore": 5,
+        "awayScore": 4,
+        "winner": "Leveria"
+      },
+      {
+        "matchId": 17,
+        "homeTeamId": 11,
+        "homeTeamName": "FC Cindian",
+        "awayTeamId": 1,
+        "awayTeamName": "Fearion Fighters",
+        "homeScore": 1,
+        "awayScore": 0,
+        "winner": "FC Cindian"
+      },
+      {
+        "matchId": 18,
+        "homeTeamId": 26,
+        "homeTeamName": "Sodan Snakes",
+        "awayTeamId": 31,
+        "awayTeamName": "DFC",
+        "homeScore": 1,
+        "awayScore": 0,
+        "winner": "Sodan Snakes"
+      },
+      {
+        "matchId": 19,
+        "homeTeamId": 29,
+        "homeTeamName": "Portels",
+        "awayTeamId": 9,
+        "awayTeamName": "Paraiba Puma's",
+        "homeScore": 1,
+        "awayScore": 0,
+        "winner": "Portels"
+      }
+    ],
+    "semiFinals": [
+      {
+        "matchId": 20,
+        "homeTeamId": 13,
+        "homeTeamName": "Leveria",
+        "awayTeamId": 11,
+        "awayTeamName": "FC Cindian",
+        "homeScore": 1,
+        "awayScore": 0,
+        "winner": "Leveria"
+      },
+      {
+        "matchId": 21,
+        "homeTeamId": 26,
+        "homeTeamName": "Sodan Snakes",
+        "awayTeamId": 29,
+        "awayTeamName": "Portels",
+        "homeScore": 0,
+        "awayScore": 1,
+        "winner": "Portels"
+      }
+    ],
+    "final": {
+      "matchId": 22,
+      "homeTeamId": 13,
+      "homeTeamName": "Leveria",
+      "awayTeamId": 29,
+      "awayTeamName": "Portels",
+      "homeScore": 2,
+      "awayScore": 0,
+      "winner": "Leveria"
+    }
+  },
+  "topScorers": [
+    {
+      "position": 1,
+      "playerName": "Ali Mohammed",
+      "teamId": 13,
+      "teamName": "Leveria",
+      "goals": 6
+    },
+    {
+      "position": 2,
+      "playerName": "Ben Bouten",
+      "teamId": 13,
+      "teamName": "Leveria",
+      "goals": 4
+    },
+    {
+      "position": 3,
+      "playerName": "Matt Ras",
+      "teamId": 4,
+      "teamName": "FC Polt",
+      "goals": 4
+    },
+    {
+      "position": 4,
+      "playerName": "Bimbo Bori",
+      "teamId": 11,
+      "teamName": "FC Cindian",
+      "goals": 3
+    },
+    {
+      "position": 5,
+      "playerName": "Paul Garcia",
+      "teamId": 14,
+      "teamName": "Arjon Arrows",
+      "goals": 3
+    }
+  ],
+  "topAssists": [
+    {
+      "position": 1,
+      "playerName": "Jan in de Rats",
+      "teamId": 11,
+      "teamName": "FC Cindian",
+      "assists": 2
+    },
+    {
+      "position": 2,
+      "playerName": "Lip Damasta",
+      "teamId": 11,
+      "teamName": "FC Cindian",
+      "assists": 2
+    },
+    {
+      "position": 3,
+      "playerName": "Mike Mik",
+      "teamId": 28,
+      "teamName": "Ziklag",
+      "assists": 2
+    },
+    {
+      "position": 4,
+      "playerName": "Frita Druif",
+      "teamId": 22,
+      "teamName": "Sol-a-Far",
+      "assists": 2
+    },
+    {
+      "position": 5,
+      "playerName": "Dirk Dribbels",
+      "teamId": 23,
+      "teamName": "Esta Tigers",
+      "assists": 2
+    }
+  ],
+  "winner": "Leveria"
+}
