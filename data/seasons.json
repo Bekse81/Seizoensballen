@@ -1,0 +1,66 @@
+{
+  "currentSeason": 330,
+  "seasons": [
+    {
+      "seasonNumber": 330,
+      "year": "2024-2025",
+      "status": "ongoing",
+      "startDate": "2024-09-01",
+      "endDate": "2025-05-31",
+      "leagueWinner": "Cindian Crawls",
+      "cupWinner": "Leveria",
+      "topScorer": "Pado Jipan",
+      "topScorerGoals": 21,
+      "topScorerTeam": "Cindian Crawls",
+      "description": "Huidige seizoen - Cindian Crawls dominant in competitie, Leveria sterke bekerspecialist"
+    },
+    {
+      "seasonNumber": 328,
+      "year": "2023-2024",
+      "status": "completed",
+      "startDate": "2023-09-01",
+      "endDate": "2024-05-31",
+      "leagueWinner": "Vokstre Fighters",
+      "cupWinner": "FC Polt",
+      "topScorer": "Hugo Spritz",
+      "topScorerGoals": 18,
+      "topScorerTeam": "Fearion Fighters"
+    },
+    {
+      "seasonNumber": 327,
+      "year": "2022-2023",
+      "status": "completed",
+      "startDate": "2022-09-01",
+      "endDate": "2023-05-31",
+      "leagueWinner": "Fearion Fighters",
+      "cupWinner": "Neskar Bees",
+      "topScorer": "Kawaguchi",
+      "topScorerGoals": 20,
+      "topScorerTeam": "Fearion Fighters"
+    },
+    {
+      "seasonNumber": 326,
+      "year": "2021-2022",
+      "status": "completed",
+      "startDate": "2021-09-01",
+      "endDate": "2022-05-31",
+      "leagueWinner": "Soto",
+      "cupWinner": "FC Cindian",
+      "topScorer": "Istan del Ray",
+      "topScorerGoals": 19,
+      "topScorerTeam": "Cindian Crawls"
+    },
+    {
+      "seasonNumber": 325,
+      "year": "2020-2021",
+      "status": "completed",
+      "startDate": "2020-09-01",
+      "endDate": "2021-05-31",
+      "leagueWinner": "Neskar Bees",
+      "cupWinner": "Fearion Fighters",
+      "topScorer": "Hugo Spritz",
+      "topScorerGoals": 17,
+      "topScorerTeam": "Fearion Fighters"
+    }
+  ]
+}
