@@ -19,6 +19,306 @@
       "founded": "Seizoen 310",
       "stadium": "Cindian Park",
       "description": "Dominante competitiewinnaar van Seizoen 330"
+    },
+    {
+      "id": 3,
+      "name": "Vokstre Fighters",
+      "logo": "vokstre-fighters.png",
+      "color": "#0066CC",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 315",
+      "stadium": "Vokstre Stadium",
+      "description": "Stabil middenmoter team"
+    },
+    {
+      "id": 4,
+      "name": "FC Polt",
+      "logo": "fc-polt.png",
+      "color": "#FFD700",
+      "accentColor": "#000000",
+      "founded": "Seizoen 300",
+      "stadium": "Polt Park",
+      "description": "Traditioneel club met veel geschiedenis"
+    },
+    {
+      "id": 5,
+      "name": "Neskar Bees",
+      "logo": "neskar-bees.png",
+      "color": "#FFCC00",
+      "accentColor": "#000000",
+      "founded": "Seizoen 318",
+      "stadium": "Neskar Hive",
+      "description": "Sterk offensief team met sterke scorers"
+    },
+    {
+      "id": 6,
+      "name": "Kinamo Knights",
+      "logo": "kinamo-knights.png",
+      "color": "#C0C0C0",
+      "accentColor": "#000000",
+      "founded": "Seizoen 322",
+      "stadium": "Knight's Castle",
+      "description": "Jonge, opkomend team"
+    },
+    {
+      "id": 7,
+      "name": "Brilek FC",
+      "logo": "brilek-fc.png",
+      "color": "#FF6600",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 312",
+      "stadium": "Brilek Field",
+      "description": "Betrouwbaar team met constante prestaties"
+    },
+    {
+      "id": 8,
+      "name": "FC Bodstock",
+      "logo": "fc-bodstock.png",
+      "color": "#006600",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 308",
+      "stadium": "Bodstock Ground",
+      "description": "Traditioneel verdedigend team"
+    },
+    {
+      "id": 9,
+      "name": "Paraiba Puma's",
+      "logo": "paraiba-pumas.png",
+      "color": "#FF9900",
+      "accentColor": "#000000",
+      "founded": "Seizoen 317",
+      "stadium": "Puma Jungle",
+      "description": "Aanvallend speelstijl met sterke aanval"
+    },
+    {
+      "id": 10,
+      "name": "Covernicos",
+      "logo": "covernicos.png",
+      "color": "#3366CC",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 319",
+      "stadium": "Covernicos Plaza",
+      "description": "Goed uitgebalanceerd team"
+    },
+    {
+      "id": 11,
+      "name": "FC Cindian",
+      "logo": "fc-cindian.png",
+      "color": "#FF0000",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 311",
+      "stadium": "Cindian Red Arena",
+      "description": "Sterke middenmoter met mogelijkheden"
+    },
+    {
+      "id": 12,
+      "name": "Tikva",
+      "logo": "tikva.png",
+      "color": "#0099FF",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 314",
+      "stadium": "Tikva Haven",
+      "description": "Klein maar flink team"
+    },
+    {
+      "id": 13,
+      "name": "Leveria",
+      "logo": "leveria.png",
+      "color": "#9933FF",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 325",
+      "stadium": "Leveria Castle",
+      "description": "DEFA Cup winnaar - Sterke bekerspecialist"
+    },
+    {
+      "id": 14,
+      "name": "Arjon Arrows",
+      "logo": "arjon-arrows.png",
+      "color": "#FF3333",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 321",
+      "stadium": "Arrow Field",
+      "description": "Snel en effectief team"
+    },
+    {
+      "id": 15,
+      "name": "Lagoria Lions",
+      "logo": "lagoria-lions.png",
+      "color": "#FFD700",
+      "accentColor": "#8B4513",
+      "founded": "Seizoen 309",
+      "stadium": "Lion's Den",
+      "description": "Verdedigingsgericht team"
+    },
+    {
+      "id": 16,
+      "name": "Trevio",
+      "logo": "trevio.png",
+      "color": "#00AA00",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 323",
+      "stadium": "Trevio Gardens",
+      "description": "Klein team met karakter"
+    },
+    {
+      "id": 17,
+      "name": "Manori Sharks",
+      "logo": "manori-sharks.png",
+      "color": "#0066FF",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 316",
+      "stadium": "Shark Bay",
+      "description": "Agressief aanvallend team"
+    },
+    {
+      "id": 18,
+      "name": "Javastich",
+      "logo": "javastich.png",
+      "color": "#8B4513",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 313",
+      "stadium": "Java Grounds",
+      "description": "Traditioneel team met standvastigheid"
+    },
+    {
+      "id": 19,
+      "name": "Ochamon",
+      "logo": "ochamon.png",
+      "color": "#FF6600",
+      "accentColor": "#000000",
+      "founded": "Seizoen 324",
+      "stadium": "Ochamon Field",
+      "description": "Jonger team in opbouw"
+    },
+    {
+      "id": 20,
+      "name": "Soto",
+      "logo": "soto.png",
+      "color": "#00FF00",
+      "accentColor": "#000000",
+      "founded": "Seizoen 306",
+      "stadium": "Soto Valley",
+      "description": "Sterk gebalanceerd team"
+    },
+    {
+      "id": 21,
+      "name": "Nerlin United",
+      "logo": "nerlin-united.png",
+      "color": "#CCCCCC",
+      "accentColor": "#000000",
+      "founded": "Seizoen 307",
+      "stadium": "United Ground",
+      "description": "Betrouwbare middenmoter"
+    },
+    {
+      "id": 22,
+      "name": "Sol-a-Far",
+      "logo": "sol-a-far.png",
+      "color": "#FFAA00",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 320",
+      "stadium": "Sol Arena",
+      "description": "Klein aanvallend team"
+    },
+    {
+      "id": 23,
+      "name": "Esta Tigers",
+      "logo": "esta-tigers.png",
+      "color": "#FF9900",
+      "accentColor": "#000000",
+      "founded": "Seizoen 319",
+      "stadium": "Tiger's Nest",
+      "description": "Flink offensief team"
+    },
+    {
+      "id": 24,
+      "name": "Vakor Vikings",
+      "logo": "vakor-vikings.png",
+      "color": "#FF0000",
+      "accentColor": "#FFD700",
+      "founded": "Seizoen 318",
+      "stadium": "Viking Longhouse",
+      "description": "Sterke defensieve organisatie"
+    },
+    {
+      "id": 25,
+      "name": "Banana United",
+      "logo": "banana-united.png",
+      "color": "#FFFF00",
+      "accentColor": "#000000",
+      "founded": "Seizoen 321",
+      "stadium": "Banana Plantation",
+      "description": "Kleurrijk team met veel karakter"
+    },
+    {
+      "id": 26,
+      "name": "Sodan Snakes",
+      "logo": "sodan-snakes.png",
+      "color": "#00AA00",
+      "accentColor": "#000000",
+      "founded": "Seizoen 322",
+      "stadium": "Snake Pit",
+      "description": "Wendbaar team met goeie techniek"
+    },
+    {
+      "id": 27,
+      "name": "Tresa Treasures",
+      "logo": "tresa-treasures.png",
+      "color": "#FFD700",
+      "accentColor": "#FF0000",
+      "founded": "Seizoen 323",
+      "stadium": "Treasure Island",
+      "description": "Enthousiast klein team"
+    },
+    {
+      "id": 28,
+      "name": "Ziklag",
+      "logo": "ziklag.png",
+      "color": "#8B0000",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 324",
+      "stadium": "Ziklag Fort",
+      "description": "Verdedigingsgericht team"
+    },
+    {
+      "id": 29,
+      "name": "Portels",
+      "logo": "portels.png",
+      "color": "#0099CC",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 325",
+      "stadium": "Portels Port",
+      "description": "Voormalig DEFA Cup finalist"
+    },
+    {
+      "id": 30,
+      "name": "Arana FC",
+      "logo": "arana-fc.png",
+      "color": "#FF0000",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 326",
+      "stadium": "Arana Stadium",
+      "description": "Nieuw team in competitie"
+    },
+    {
+      "id": 31,
+      "name": "DFC",
+      "logo": "dfc.png",
+      "color": "#003366",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 327",
+      "stadium": "DFC Arena",
+      "description": "Jonge club met potentie"
+    },
+    {
+      "id": 32,
+      "name": "SC Fearion",
+      "logo": "sc-fearion.png",
+      "color": "#660000",
+      "accentColor": "#FFFFFF",
+      "founded": "Seizoen 328",
+      "stadium": "SC Fearion Park",
+      "description": "Nieuwste club in het systeem"
     }
   ]
 }
