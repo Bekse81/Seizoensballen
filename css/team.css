@@ -1,0 +1,174 @@
+/* TEAM HEADER */
+.team-header {
+    margin-top: 2rem;
+    padding: 0 2rem;
+}
+
+#team-banner {
+    height: 300px;
+    border-radius: 8px;
+    background: linear-gradient(135deg, #1F51BA 0%, #FFD700 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    margin-bottom: 2rem;
+}
+
+/* TEAM INFO CONTAINER */
+.team-info-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+#team-info {
+    background-color: #f9f9f9;
+    padding: 2rem;
+    border-radius: 8px;
+    border-left: 4px solid #1F51BA;
+}
+
+#team-info h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #1F51BA;
+}
+
+#team-info p {
+    margin: 0.8rem 0;
+    font-size: 1.1rem;
+}
+
+#team-info strong {
+    color: #1F51BA;
+}
+
+/* TEAM STATS */
+#team-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+.stat-box {
+    background-color: #f9f9f9;
+    padding: 1.5rem;
+    border-radius: 8px;
+    text-align: center;
+    border: 2px solid #FFD700;
+}
+
+.stat-box h3 {
+    color: #666;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+}
+
+.stat-box .value {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #1F51BA;
+}
+
+/* PLAYERS LIST */
+#players-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.player-card {
+    background-color: #f9f9f9;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+}
+
+.player-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 5px 12px rgba(0,0,0,0.15);
+}
+
+.player-number {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color: #1F51BA;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.player-card h3 {
+    margin: 0.5rem 0;
+    color: #1F51BA;
+}
+
+.player-position {
+    color: #666;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.player-stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.player-stat {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.3rem 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.player-stat span:first-child {
+    color: #666;
+}
+
+.player-stat span:last-child {
+    font-weight: bold;
+    color: #1F51BA;
+}
+
+.card-yellow {
+    color: #FFD700;
+}
+
+.card-red {
+    color: #FF0000;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+    .team-info-container {
+        grid-template-columns: 1fr;
+    }
+
+    #team-stats {
+        grid-template-columns: 1fr;
+    }
+
+    #players-list {
+        grid-template-columns: 1fr;
+    }
+
+    #team-banner {
+        height: 200px;
+        font-size: 1.5rem;
+    }
+}
