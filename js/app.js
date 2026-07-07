@@ -35,7 +35,7 @@ async function loadLeague() {
 
     league.standings.forEach(team => {
         html += `
-            <tr class="position-${team.position}">
+            <tr class="position-${team.position}" style="cursor: pointer;" onclick="window.location.href='team.html?id=${team.teamId}'">
                 <td><strong>${team.position}</strong></td>
                 <td>${team.teamName}</td>
                 <td>${team.points}</td>
@@ -69,7 +69,7 @@ async function loadCup() {
     `;
 }
 
-// Teams grid vullen
+// Teams grid vullen met klikbare kaarten
 async function loadTeams() {
     const teams = await loadJSON('teams.json');
     if (!teams) return;
@@ -79,12 +79,13 @@ async function loadTeams() {
 
     teams.teams.forEach(team => {
         html += `
-            <div class="team-card" style="border-left-color: ${team.color}">
+            <div class="team-card" style="border-left-color: ${team.color}; cursor: pointer;" onclick="window.location.href='team.html?id=${team.id}'">
                 <div class="team-color" style="background-color: ${team.color}"></div>
                 <h3>${team.name}</h3>
                 <p><strong>Stadium:</strong> ${team.stadium}</p>
                 <p><strong>Opgericht:</strong> ${team.founded}</p>
                 <p>${team.description}</p>
+                <p style="margin-top: 1rem; color: #1F51BA; font-weight: bold;">→ Bekijk details</p>
             </div>
         `;
     });
